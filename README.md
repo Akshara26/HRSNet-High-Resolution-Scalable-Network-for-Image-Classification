@@ -90,34 +90,7 @@ HRSNet maintains **high-resolution representations throughout the network** inst
 - Evaluated using:
   - Test accuracy
   - Per-class accuracy
-  - Top-performing classes  
-
----
-
-## 📊 Visualizations
-
-- Training vs Validation Loss  
-- Class-wise accuracy  
-- Sample predictions  
-
----
-
-## 🧪 Experimentation
-
-- Channel scaling (C=2 vs C=30)
-- Fusion depth tuning
-- Early stopping optimization
-- Learning rate and optimizer tuning
-
----
-
-## 🧠 Key Learnings
-
-- Designing multi-scale architectures from scratch  
-- Feature fusion across resolutions  
-- Training deep neural networks efficiently  
-- Implementing checkpointing and early stopping  
-- Understanding accuracy vs compute trade-offs  
+  - Top-performing classes   
 
 ---
 
